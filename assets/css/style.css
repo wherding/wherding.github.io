@@ -38,8 +38,8 @@
 text-align: center;
 }
 
-.body{
-    background-color: white;
+body{
+    background-color: rgb(23, 20, 20);
     /*width: 70%;*/
     margin: 0 auto;
     /*width: 960px;*/
@@ -78,8 +78,9 @@ text-align: center;
 }
 
 
+/*
 .content{
-    /*background-color: grey;*/
+    
     background-image: url("/assets/images/dust_scratches.png");
     min-height: calc(100vh - 70px);
     padding-top: 20px;
@@ -87,10 +88,11 @@ text-align: center;
     
 
 }
+
 body{
     background-image: url("/assets/images/dust_scratches.png");
     
-}
+}*/
 footer{
     text-align: center;
     border-top: 5px solid #4aaaa5;
@@ -132,4 +134,8 @@ textarea{
    
     display: flex;
     
+}
+iframe{
+    width: 100% !important;
+    height: 500px !important;
 }
