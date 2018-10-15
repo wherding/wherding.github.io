@@ -139,3 +139,6 @@ iframe{
     width: 100% !important;
     height: 500px !important;
 }
+.card{
+    margin: 0 auto;
+}
