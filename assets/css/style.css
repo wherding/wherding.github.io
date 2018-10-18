@@ -142,3 +142,13 @@ iframe{
 .card{
     margin: 0 auto;
 }
+
+.heading{
+    font-size: 110px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: url('https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg');
+    font-family: 'Oswald', sans-serif;
+font-weight: 1000;
+
+}
