@@ -143,11 +143,23 @@ iframe{
     margin: 0 auto;
 }
 
-.heading{
+.heading {
     font-size: 110px;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-image: url('https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg');
+    background-image: url('http://www.eteknix.com/wp-content/uploads/2013/08/Powercolor-HD-7730-5.jpg');
+    background-image: cover;
+    font-family: 'Oswald', sans-serif;
+font-weight: 1000;
+
+}
+
+.heading h1{
+    font-size: 110px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: url('http://www.eteknix.com/wp-content/uploads/2013/08/Powercolor-HD-7730-5.jpg');
+    background-image: cover;
     font-family: 'Oswald', sans-serif;
 font-weight: 1000;
 
